@@ -44,7 +44,7 @@
         "symfony/finder": "^6.0",
         "symfony/http-foundation": "^6.0",
         "symfony/http-kernel": "^6.0",
-        "symfony/mailer": "^6.0",
+        "symfony/mailer": "master",
         "symfony/mime": "^6.0",
         "symfony/process": "^6.0",
         "symfony/routing": "^6.0",
@@ -195,6 +195,9 @@
             "url": "https://github.com/Alasator/mailer.git"
         }
     ],
+    "github-oauth": {
+        "github.com": "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"
+    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
