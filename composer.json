@@ -189,6 +189,12 @@
             "composer/package-versions-deprecated": true
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Alasator/mailer.git"
+        }
+    ],
     "minimum-stability": "stable",
     "prefer-stable": true
 }
